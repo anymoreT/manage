@@ -34,8 +34,8 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseBody;
 
-import com.wyait.common.utils.DateUtil;
-import com.wyait.common.utils.ValidateUtil;
+import com.wyait.manage.common.utils.DateUtil;
+import com.wyait.manage.common.utils.ValidateUtil;
 import com.wyait.manage.entity.ResponseResult;
 import com.wyait.manage.entity.UserDTO;
 import com.wyait.manage.entity.UserRolesVO;
